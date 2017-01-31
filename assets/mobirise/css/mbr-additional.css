@@ -1673,6 +1673,8 @@ h6,
 
 
 
+
+
 #msg-box8-x .mbr-section-title,
 #msg-box8-x p {
   color: #fff;
@@ -1683,9 +1685,18 @@ h6,
 #msg-box8-x .lead P {
   font-family: 'Bitter', serif;
 }
+#msg-box8-x .mbr-section-title SPAN {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#content2-2n BLOCKQUOTE {
+  font-family: 'Bitter', serif;
+}
 #content1-y P {
   text-align: left;
   font-family: 'Roboto Condensed', sans-serif;
+}
+#social-buttons1-10 .mbr-section-title {
+  color: #ffffff;
 }
 #menu-11 .hide-buttons .nav-btn {
   display: none !important;

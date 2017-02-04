@@ -1,10 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -12,11 +12,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .btn,
 .alert,
@@ -573,8 +573,11 @@ h6,
   text-align: right;
 }
 #slider-38 P {
-  text-align: right;
+  text-align: left;
   color: #efefef;
+}
+#slider-38 B {
+  color: #cccccc;
 }
 #menu-20 .hide-buttons .nav-btn {
   display: none !important;
@@ -1052,6 +1055,10 @@ h6,
 #menu-35 .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box8-2y .mbr-section-title,
+#msg-box8-2y p {
+  color: #fff;
+}
 #menu-42 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1190,12 +1197,6 @@ h6,
 #menu-14 .close-icon::before,
 #menu-14 .close-icon::after {
   background-color: #ffffff;
-}
-#msg-box2-0 .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-0 .mbr-section-subtitle {
-  color: #a0a0a0;
 }
 #msg-box3-0 .mbr-section-title,
 #msg-box3-0 p {
@@ -1840,6 +1841,13 @@ h6,
 #form1-18 .form-control-label {
   color: #232323;
 }
+#form1-18 .mbr-section-title {
+  color: #232323;
+}
+#form1-18 SMALL {
+  color: #232323;
+}
+
 #menu-1h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1911,6 +1919,16 @@ h6,
 #content5-1j .mbr-section-title,
 #content5-1j p {
   color: #fff;
+}
+#header3-2o .mbr-section-title,
+#header3-2o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2o H3 {
+  font-family: 'Oswald', sans-serif;
+}
+#features1-2p .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #cccccc;
 }
 #form2-1m .mbr-section-title {
   color: #fff;

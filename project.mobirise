@@ -593,7 +593,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/animal-1294936-960-600x521.png",
+              "src": "@PROJECT_PATH@/assets/images/judgment-1-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

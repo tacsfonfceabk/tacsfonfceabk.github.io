@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contactus.html",
+    "currentPage": "Index.html",
     "versionFirst": "3.3.1",
     "versionPublish": "3.11.1",
     "name": "Tacsfon Fce Official Web Site",
@@ -27,7 +27,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "resizeImages": "",
-    "uniqCompNum": 107
+    "uniqCompNum": 108
   },
   "pages": {
     "page1.html": {
@@ -537,7 +537,7 @@
                 "showTitle": true,
                 "title": "",
                 "showText": true,
-                "text": "<b><br></b><br><b><br></b><br><b><br></b><br><b><br></b><br><b><br></b>&nbsp;<br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Reunion 2017 &nbsp; &nbsp;&nbsp;</b><br>",
+                "text": "<b><br></b><br><b><br></b><br><b><br></b><br><b><br></b><br><b><br></b>&nbsp;<br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Reunion 2017 &nbsp; &nbsp;&nbsp;</b><br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Register Now</a> "
               },
@@ -2052,14 +2052,38 @@
           "text": "Copyright (c) 2016 TACSFON Fce Abk."
         },
         {
-          "_name": "content1",
-          "_anchor": "content1-44",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
           },
-          "text": "<ol><li><i></i></li></ol>"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2z",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_name": "content2",
@@ -2084,7 +2108,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<ol><li>•\tThe unity of the Godhead and the Trinity of the persons therein.</li><li>•\tThe utter depravity of the human nature, the necessity for repentance and regeneration and eternal doom of the finally impenitent.</li><li>•\tThe virgin birth, sinless life, atoning death, triumphant resurrection, ascension and abiding intercession of our Lord Jesus Christ, second coming and millennial reign upon the earth.</li><li>•\tJustification and sanctification of the believer through the finished work of Christ.</li><li>•\tThe baptism of the Holy Ghost with signs following</li><li>•\tThe nine gifts of the Holy Ghost for the edification, exhortation and comfort the church, which is the body of Christ.</li><li>•\tThe sacrament of baptism by immersion and the Lord’s Supper.</li><li>•\tThe divine inspiration and authority of the Holy Scriptures.</li><li>•\tChurch government by Apostle, Prophets, Evangelists, Pastors, Teachers, Elders, and Deacons.</li><li>•\tThe possibility of falling from grace.</li><li>•\tThe obligatory nature of tithes and offerings.</li><li>*Divine Healing through Obedience to command of our Lord Jesus Christ and Faith in His Name and merit of His Blood for all sickness, disease and infirmities .</li></ol><div><br></div><div><br></div><br>"
+          "text": "<ol><li>•\tThe unity of the God-head and the Trinity of the persons therein.</li><li>•\tThe utter depravity of the human nature, the necessity for repentance and regeneration and eternal doom of the finally impenitent.</li><li>•\tThe virgin birth, sinless life, atoning death, triumphant resurrection, ascension and abiding intercession of our Lord Jesus Christ, second coming and millennial reign upon the earth.</li><li>•\tJustification and sanctification of the believer through the finished work of Christ.</li><li>•\tThe baptism of the Holy Ghost with signs following</li><li>•\tThe nine gifts of the Holy Ghost for the edification, exhortation and comfort the church, which is the body of Christ.</li><li>•\tThe sacrament of baptism by immersion and the Lord’s Supper.</li><li>•\tThe divine inspiration and authority of the Holy Scriptures.</li><li>•\tChurch government by Apostle, Prophets, Evangelists, Pastors, Teachers, Elders, and Deacons.</li><li>•\tThe possibility of falling from grace.</li><li>•\tThe obligatory nature of tithes and offerings.</li><li>•Divine Healing through Obedience to command of our Lord Jesus Christ and Faith in His Name and merit of His Blood for all sickness, disease and infirmities .</li></ol><div><br></div><div><br></div><br>"
         }
       ]
     },

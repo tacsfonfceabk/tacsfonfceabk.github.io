@@ -1127,6 +1127,10 @@ h6,
 #menu-42 .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box8-2z .mbr-section-title,
+#msg-box8-2z p {
+  color: #fff;
+}
 #content1-45 P {
   text-align: left;
 }

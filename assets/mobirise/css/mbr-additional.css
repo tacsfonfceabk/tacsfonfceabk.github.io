@@ -1134,6 +1134,9 @@ h6,
 #content1-45 P {
   text-align: left;
 }
+#content1-45 LI {
+  font-size: 17px;
+}
 #menu-14 .hide-buttons .nav-btn {
   display: none !important;
 }

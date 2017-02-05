@@ -2104,6 +2104,9 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "LI": {
+              "font-size": "17px"
             }
           },
           "_anchor": "content1-45",
@@ -5948,7 +5951,7 @@
           "title": "SUBSCRIBE FORM",
           "subtitle": "Subscribe to our Newsletter",
           "form": {
-            "action": "meetjoseph01@gmail.com",
+            "action": "tacsfonfceabk.gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },

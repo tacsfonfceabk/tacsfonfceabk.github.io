@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Index.html",
+    "currentPage": "contactus.html",
     "versionFirst": "3.3.1",
     "versionPublish": "3.11.1",
     "name": "Tacsfon Fce Official Web Site",
@@ -4511,7 +4511,7 @@
           "form": {
             "action": "tacsfonfceabk@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form! We've just "
+              "success": "Thanks for filling out form! "
             },
             "fields": {
               "name": {
@@ -4531,11 +4531,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message*"
+                "customTitle": "Message"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         }
       ]
     },

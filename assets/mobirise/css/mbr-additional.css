@@ -1193,6 +1193,16 @@ h6,
 #content5-0 p {
   color: #fff;
 }
+#content5-0 .mbr-section-title {
+  text-align: center;
+  font-size: 60px;
+}
+#content5-0 P {
+  text-align: center;
+}
+#content6-0 P {
+  text-align: left;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }

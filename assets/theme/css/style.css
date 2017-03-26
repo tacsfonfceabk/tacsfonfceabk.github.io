@@ -804,14 +804,14 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     display: block; }
   .mbr-table-md-up .mbr-table-cell + .mbr-table-cell {
     padding-top: 40px; }
-  @media (min-width: 768px) {
-    .mbr-table-md-up {
-      display: table; }
-      .mbr-table-md-up .mbr-table-cell {
-        display: table-cell; }
-      .mbr-table-md-up .mbr-table-cell + .mbr-table-cell {
-        padding-top: 0; } }
 
+@media (min-width: 769px) {
+  .mbr-table-md-up {
+    display: table; }
+    .mbr-table-md-up .mbr-table-cell {
+      display: table-cell; }
+    .mbr-table-md-up .mbr-table-cell + .mbr-table-cell {
+      padding-top: 0; } }
 .mbr-figure {
   display: block;
   margin: 0;

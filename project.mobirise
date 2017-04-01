@@ -7357,8 +7357,8 @@
             "P": {
               "text-align": "center",
               "color": "#efefef",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "23px"
             },
             "B": {
@@ -7382,9 +7382,9 @@
                 "showTitle": false,
                 "title": "FULL SCREEN SLIDER",
                 "showText": true,
-                "text": "<b><br></b><br><b><br></b><br><b><br></b><br><b><br></b><br><b><br></b><br><b>The Word of God Serving as our BackBone<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Have &nbsp;you read &nbsp;your Bible today..?</span></b><br>",
+                "text": "<b><br></b><br><b><br></b><br><b><br></b><b>The Word of God Serving as our BackBone<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Have &nbsp;you read &nbsp;your Bible today..?</span></b><br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"biblestudies2.html\" data-toolbar=\"-mbrBtnMove\">Bible Study</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.woh.org/devotionals/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Word of Hope</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"biblestudies2.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>Bible Study &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.woh.org/devotionals/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>Word of Hope</a>  "
               },
               {
                 "active": false,
@@ -7397,7 +7397,7 @@
                 "showTitle": false,
                 "title": "IMAGE SLIDE",
                 "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Drama Ministration</b>",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b style=\"font-size: 1.125rem; line-height: 1.5;\">...Drama Ministration</b><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -7413,7 +7413,7 @@
                 "showTitle": true,
                 "title": "",
                 "showText": true,
-                "text": "<br><br><br><br><br><br><br><b>LAWNA Update</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">TAC Nigeria National Executive Council Speaks about TACSFON</span><br><br><br>&nbsp; &nbsp; &nbsp;&nbsp;",
+                "text": "<br><br><br><br><b style=\"font-size: 1.125rem; line-height: 1.5;\">LAWNA Update</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">TAC Nigeria National Executive Council Speaks about TACSFON</span><br><br><br>&nbsp; &nbsp; &nbsp;&nbsp;",
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://youtu.be/qqNyGOmNlA8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WATCH</a>"
               },
@@ -7457,9 +7457,9 @@
                 "showTitle": true,
                 "title": "",
                 "showText": true,
-                "text": "<b><br></b><br><b><br></b><br><b><br></b><br><b><br></b><br><b><br></b>&nbsp;<br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><b>Reunion 2017 &nbsp; &nbsp;&nbsp;</b><br>",
+                "text": "<b><br></b><br><b><br></b><br><b><br></b><br><b><br></b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>&nbsp;</b><b>Reunion 2017 &nbsp; &nbsp;&nbsp;</b><br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"view.html\" data-toolbar=\"-mbrBtnMove\">View</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Register Now</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"view.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-ventrilo mbr-iconfont mbr-iconfont-btn\"></span>View</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Register Now</a> "
               }
             ],
             "fullScreen": true,

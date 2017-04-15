@@ -2771,6 +2771,13 @@ h6,
 #menu-11 .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box8-4r .mbr-section-title,
+#msg-box8-4r p {
+  color: #fff;
+}
+#gallery3-49 .mbr-gallery-item > div > span SPAN {
+  text-align: center;
+}
 #menu-44 .hide-buttons .nav-btn {
   display: none !important;
 }

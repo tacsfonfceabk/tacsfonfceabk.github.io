@@ -7369,39 +7369,8 @@
             "autoplay": true,
             "paddingTop": "3",
             "paddingBottom": "0",
-            "timeout": "7",
+            "timeout": "8",
             "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/event-2000x1496.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/LlTheVVxClA",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "overlayColor": "#90a878",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "<br><br><br><br><b style=\"font-size: 1.125rem; line-height: 1.5;\">LAWNA Update</b><br><font size=\"5\"><span style=\"line-height: 36px;\">#51 Hour Praise</span></font><br><br>&nbsp; &nbsp; &nbsp;&nbsp;",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://youtu.be/qqNyGOmNlA8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WATCH</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/prayer5-2000x1500-85.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": true,
-                "text": "<b><br></b><br><b><br></b><br><b><br></b><b>The Word of God Serving as our BackBone<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Have &nbsp;you read &nbsp;your Bible today..?</span></b><br>",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"biblestudies2.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>Bible Study &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.woh.org/devotionals/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>Word of Hope</a>  "
-              },
               {
                 "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
@@ -7417,6 +7386,21 @@
                 "text": "<br><br><br><br><b style=\"font-size: 1.125rem; line-height: 1.5;\">LAWNA Update</b><br><font size=\"5\"><span style=\"line-height: 36px;\">#51 Hour Praise</span></font><br><br>&nbsp; &nbsp; &nbsp;&nbsp;",
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://youtu.be/c_s5swlA9K4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WATCH</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/prayer5-2000x1500-85.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": true,
+                "text": "<b><br></b><br><b><br></b><br><b><br></b><b>The Word of God Serving as our BackBone<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Have &nbsp;you read &nbsp;your Bible today..?</span></b><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"biblestudies2.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>Bible Study &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.woh.org/devotionals/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>Word of Hope</a>  "
               },
               {
                 "active": false,
@@ -7576,7 +7560,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x385.jpg",
+              "src": "@PROJECT_PATH@/assets/images/light-bulb-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7773,11 +7757,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/contact-icon-265x282.png",
+              "src": "@PROJECT_PATH@/assets/images/customer-service-265x121.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
-              "link": "Index.html",
+              "link": "contactus.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -8800,7 +8784,7 @@
             "shortName": "",
             "socialDisqus": false
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments0.jpg\"></div>",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments3.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         },
@@ -9485,11 +9469,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/contact-icon-265x282.png",
+              "src": "@PROJECT_PATH@/assets/images/customer-service-265x121.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
-              "link": "Index.html",
+              "link": "contactus.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false

@@ -7509,7 +7509,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#dfcbcb",
+            "bgColor": "#eae5e5",
             "bgColorRadio": true,
             "bgVideo": {
               "width": 1280,
@@ -7748,15 +7748,15 @@
           "_tags": [
             "Extension"
           ],
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F318919023",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F319033191",
           "_name": "soundcloud2",
           "_anchor": "soundcloud2-4s",
           "_params": {
-            "sound": "https://soundcloud.com/user-860081765/obzor-liderskogo-uedineniya-sluzhiteley-2016-overview-of-the-ministers-leadership-retreat-2016",
+            "sound": "https://soundcloud.com/tacsfon-fce-abk/overview-of-the-ministers-leadership-retreat-2016-by-bro-gbile-akanni",
             "autoplay": true,
             "fullWidth": true
           },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F318919023&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F319033191&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
         },
         {
           "_tags": [
@@ -7778,7 +7778,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/customer-service-265x121.png",
+              "src": "@PROJECT_PATH@/assets/images/greenchurch-265x250.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -8805,7 +8805,7 @@
             "shortName": "",
             "socialDisqus": false
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments7.jpg\"></div>",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments9.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         },

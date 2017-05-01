@@ -7373,22 +7373,6 @@
             "slides": [
               {
                 "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/LlTheVVxClA",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "overlayColor": "#2b0680",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "",
-                "showText": true,
-                "text": "<br><br><br><br><b style=\"font-size: 1.125rem; line-height: 1.5;\">LAWNA Update</b><br><font size=\"5\"><span style=\"line-height: 36px;\">#51 Hour Praise</span></font><br><br>&nbsp; &nbsp; &nbsp;&nbsp;",
-                "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://youtu.be/c_s5swlA9K4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WATCH</a>"
-              },
-              {
-                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/prayer5-2000x1500-85.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -7414,7 +7398,7 @@
                 "showText": true,
                 "text": "<b><br></b><br><b><br></b><br><b><br></b><br><b><br></b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>&nbsp;</b><b>Reunion 2017 &nbsp; &nbsp;&nbsp;</b><br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"view.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-ventrilo mbr-iconfont mbr-iconfont-btn\"></span>View</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Register Now</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"view.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-ventrilo mbr-iconfont mbr-iconfont-btn\"></span>View</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"r2017registration.html\" data-toolbar=\"-mbrBtnMove\">Register Now</a> "
               },
               {
                 "active": false,
@@ -8689,7 +8673,7 @@
             "shortName": "",
             "socialDisqus": false
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments3.jpg\"></div>",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments4.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         }
@@ -9028,7 +9012,7 @@
             "shortName": "",
             "socialDisqus": false
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments3.jpg\"></div>",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments4.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         },

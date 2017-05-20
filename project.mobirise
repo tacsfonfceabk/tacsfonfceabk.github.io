@@ -7384,7 +7384,7 @@
                 "showText": true,
                 "text": "<b><br></b><br><b><br></b><br><b><br></b><b>The Word of God Serving as our BackBone<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Have &nbsp;you read &nbsp;your Bible today..?</span></b><br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"biblestudies2.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>Bible Study &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.woh.org/devotionals/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>Word of Hope</a>  "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"biblestudies2.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>Bible Study &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.woh.org/devotionals/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>Word of Hope</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"view.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-draugiem mbr-iconfont mbr-iconfont-btn\"></span>REUNION</a>  "
               },
               {
                 "active": false,
@@ -8673,7 +8673,7 @@
             "shortName": "",
             "socialDisqus": false
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments4.jpg\"></div>",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments0.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         }
@@ -9012,7 +9012,7 @@
             "shortName": "",
             "socialDisqus": false
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments4.jpg\"></div>",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments0.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         },
@@ -9752,7 +9752,7 @@
           "_anchor": "msg-box5-4w",
           "_params": {
             "imageSize": "34",
-            "paddingTop": "7",
+            "paddingTop": "4",
             "paddingBottom": "7",
             "parallax": true,
             "bgImageRadio": true,
@@ -9798,7 +9798,7 @@
           },
           "title": "REGISTER",
           "text": "<i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</i><b><i>&nbsp;as</i></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">STUDENT</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">ALUMNUS</a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">GUEST</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.cognitoforms.com/TACSFONFCE/_2017REUNIONStudentRegistrationForm\" data-toolbar=\"-mbrBtnMove\">STUDENT</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.cognitoforms.com/TACSFONFCE/_2017REUNIONAlumniRegistrationForm\" data-toolbar=\"-mbrBtnMove\">ALUMNUS</a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.cognitoforms.com/TACSFONFCE/_2017REUNIONGuestRegistrationForm\" data-toolbar=\"-mbrBtnMove\">GUEST</a> "
         },
         {
           "_styles": {

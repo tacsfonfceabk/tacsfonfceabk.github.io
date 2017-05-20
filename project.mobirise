@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "r2017registration.html",
     "versionFirst": "3.3.1",
     "versionPublish": "3.12.1",
     "name": "Tacsfon Fce Official Web Site",
@@ -28,7 +28,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "resizeImages": "",
-    "uniqCompNum": 180
+    "uniqCompNum": 182
   },
   "pages": {
     "page1.html": {
@@ -7855,40 +7855,6 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3z",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -7994,6 +7960,46 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 TACSFON Fce Abk."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-50",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/reunion-2016-04-2000x15001.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"r2017registration.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> ",
+          "title": "#REUNION 2017",
+          "text": "Kindly Register now for Reunion 2017... Come July 1st, 2017.&nbsp;"
         },
         {
           "_inherit": "gallery1",
@@ -8673,7 +8679,7 @@
             "shortName": "",
             "socialDisqus": false
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments0.jpg\"></div>",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments2.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         }
@@ -9012,7 +9018,7 @@
             "shortName": "",
             "socialDisqus": false
           },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments0.jpg\"></div>",
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments2.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         },
@@ -9691,22 +9697,27 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            ".mbr-section-title": {
+              "color": "#fff",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-4v",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-51",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "parallax": true,
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/reunion-2016-04-2000x15001.jpg",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -9715,13 +9726,14 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
+            "inverse": true,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": true
           },
-          "title": "",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"r2017registration.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> ",
+          "title": "#REUNION 2017",
+          "text": "Kindly Register now for Reunion 2017... Come July 1st, 2017.&nbsp;"
         },
         {
           "_tags": [
@@ -9752,8 +9764,8 @@
           "_anchor": "msg-box5-4w",
           "_params": {
             "imageSize": "34",
-            "paddingTop": "4",
-            "paddingBottom": "7",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/reunion-chat1-2000x1499.jpg",
@@ -9764,7 +9776,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
+            "overlayOpacity": "1",
             "overlayColor": "#f7da64",
             "inverse": true,
             "showTitle": true,

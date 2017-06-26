@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "r2017registration.html",
+    "currentPage": "bible.html",
     "versionFirst": "3.3.1",
     "versionPublish": "3.12.1",
     "name": "Tacsfon Fce Official Web Site",
@@ -28,7 +28,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "resizeImages": "",
-    "uniqCompNum": 182
+    "uniqCompNum": 184
   },
   "pages": {
     "page1.html": {
@@ -1756,258 +1756,6 @@
           "title": "MODERN STYLES",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
-        }
-      ]
-    },
-    "biblestudies2.html": {
-      "settings": {
-        "title": "Bible Study",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 13
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "10px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.7rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#00755d"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#009979!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#00a885"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-17",
-          "_params": {
-            "bgColor": "#00a885",
-            "fontSize": "0.6",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tacsfon-fce-png-logo-290x128-69.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "#top",
-              "title": "Home  Page",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FCE ABEOKUTA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newshome.html#msg-box8-1d\"><span class=\"etl-icon icon-megaphone mbr-iconfont mbr-iconfont-btn\"></span>NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>GALLERY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"g1.html\">Photo Gallery</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Video Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"livingword.html\">Living Seed</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>STAYLIITE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Academic Material<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Programmes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Campus Update</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FYB<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://goo.gl/quPx79\">Register Now</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Announcement<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Project</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\"><span class=\"socicon socicon-draugiem mbr-iconfont mbr-iconfont-btn\"></span>ALUMNI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"view.html\">Reunion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Programmes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Updates &amp; Job offers</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Words of Hope</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-1c\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Mobile menu</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Contributions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>TACSFON</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contactus.html\">Contact Us</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Doctrines</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourtenets.html\">Our Tenets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Believes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Vision<br>Our Mission</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Staff Adviser</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"#top\">Sign Up/Login</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-19",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 TACSFON Fce Abk."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "60px"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_name": "content5",
-          "_anchor": "content5-0",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/holy-bible-deceiver-2000x1334-7.png",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
-          },
-          "title": "REGENERATION",
-          "caption": "<p><b>TEXT: ROM 6:1-12</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">06/REF/10/03/2017</span></p><p><br></p>"
-        },
-        {
-          "_name": "content2",
-          "_anchor": "content2-0",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<br><blockquote><p>Memory Verse: II PETER 3:18 </p><p>\"But grow in <b>spiritual strength</b> and become <b>better acquainted</b> with our Lord saviour Jesus Christ\" (LB)</p></blockquote>"
-        },
-        {
-          "_name": "content1",
-          "_anchor": "content1-0",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p><br></p><p><b>INTRODUCTION</b></p><p>Before something grows again, it has to die, being in a particular position or lacking something which is life. But newness in Christ Jesus is a promise from God through His son, Jesus. II Cor 5:17, Rev 21:5. We are made pure in Him through his blood which he shed on the cross and made new by his resurrection powered by his spirit.</p><p><br></p><p><br></p>"
-        },
-        {
-          "_name": "content6",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content6-0",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><b>MEANING</b></p><p><br></p><p>&nbsp; &nbsp; Regeneration is a process to make something grow again (Dictionary meaning). Biblically, it means the process of rising to newness of life in Christ Jesus (Rms 6:4, Gal 6:15, 2, Cor5:17). It means spiritual rebirth, which is a work performed by the holy spirit (Jn 3:6) in the life of a Christian.</p><p>&nbsp; &nbsp; Before the need for something to grow again, there must have been a reduction in value, depreciation or lack of vital things. The certainty that all men are under the influence of sin (I In 1:8) after which redemption came and brought the need to grow again, to become new and be free.</p><p>&nbsp; &nbsp; Using the illustration of the grain of wheat, Jesus explained that it has to die and come back to life in order to bear more. This symbolizes the death of Jesus on the cross, but this seem inadequate enough to bring man into a new birth except by His resurrection (Jn 5:24, I Jn 3:14).</p>",
-          "text2": "<p><b>THINGS THAT MAKES US NOT TO GROW</b></p><p>* Sin (works of the flesh) Gal 5:19</p><p>* Friendship with the world. JMS 4:4</p><p>* Pride. Ish 14:12-14</p><p>&nbsp; &nbsp; Death and resurrection are not enough, to grow, a deep and increased knowledge of the world is needed. It helps us to live a holy life and present us blameless before God always by the renewal of the spirit. (II Peter 1:6a, I Thess 5:23).</p><p><br></p><p><b>THINGS THAT MAKES US GROW</b></p><p>* The word of God (Jn 5:39, II Cor 3:18, II Peter 1:3, 4, Josh 1:8)</p><p>* Fasting (Lk 4:1, 2, Dan 9:2, 3, Lk 2:37, Joel 1:13, 14)</p><p>* Prayer. (Phil 4:6, 7, Jms 4:2, Eph 6:18)</p><p>* Discipleship. (Matt 11:28-30, 4:19-22, Mk 3:13-15, Matt 5:1, 2, 10:1-5)</p><p>* Fellowship with other believers. (I Cor 1:9, Eph 2:18, 19, 4:4-6, Heb 10:24, 25)</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3p",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>CONCLUSION</b></p><p>The Holy spirit, the spirit of truth and of liberty is the one that brings about a new life (Jn 3:6, LB). Therefore, it is to the spirit that we have to yield ourselves. We may not know on those He bestows this new life but there are various evidences of this life which differs from man to man (Jn 3:3-8). This new life enables our knowledge Of Christ to be active and effective (II Peter 1:8, GNB). You need to die, leaving the former state to grow in aboundance!</p>"
-        },
-        {
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-2q",
-          "_params": {
-            "postsNumber": 5,
-            "bgImage": "/addons/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f",
-            "socialFacebook": true,
-            "socialGoogle": false,
-            "shortName": "",
-            "socialDisqus": false
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"/addons/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"/addons/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"/addons/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
-        },
-        {
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-0",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE THIS PAGE!"
         }
       ]
     },
@@ -9919,6 +9667,289 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 TACSFON Fce Abk."
+        }
+      ]
+    },
+    "bible.html": {
+      "settings": {
+        "title": "Bible Study",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 13
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "10px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#00755d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#009979!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#00a885"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-17",
+          "_params": {
+            "bgColor": "#00a885",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tacsfon-fce-png-logo-290x128-69.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "Home  Page",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FCE ABEOKUTA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newshome.html#msg-box8-1d\"><span class=\"etl-icon icon-megaphone mbr-iconfont mbr-iconfont-btn\"></span>NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>GALLERY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"g1.html\">Photo Gallery</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Video Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"livingword.html\">Living Seed</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>STAYLIITE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Academic Material<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Programmes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Campus Update</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FYB<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://goo.gl/quPx79\">Register Now</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Announcement<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Project</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\"><span class=\"socicon socicon-draugiem mbr-iconfont mbr-iconfont-btn\"></span>ALUMNI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"view.html\">Reunion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Programmes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Updates &amp; Job offers</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Words of Hope</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-1c\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Mobile menu</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Contributions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>TACSFON</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contactus.html\">Contact Us</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Doctrines</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourtenets.html\">Our Tenets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Believes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Vision<br>Our Mission</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Staff Adviser</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"#top\">Sign Up/Login</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-19",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 TACSFON Fce Abk."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "60px"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/holy-bible-deceiver-2000x1334-7.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "GRACE",
+          "caption": "<p><b>TEXT: I COR 15:1-11</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">06/REF/26/06/2017</span></p><p><br></p>"
+        },
+        {
+          "_name": "content2",
+          "_anchor": "content2-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>Memory Verse: ROMANS 3:18 </p><p>\"For sin <b>shall not have dominion</b> over you:  <b>for ye are not under the law</b>, but under <b>grace</b>.\" (KJV)</p></blockquote>"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><b>INTRODUCTION</b></p><p>In the beginning, the grace of God was sufficient to every human, but due to human disobedience, God was very sad that He had made man on earth (Gen 4:5-8). After the generation of Noah, different great prophets of God have also risen to bring man back to God but all the efforts was on vain. But God in His infinite mercy by His grace through Jesus Christ saved us from our sins and gave us liberty. (I Tim 1:15, John 3:16)</p><p><br></p>"
+        },
+        {
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-0",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>MEANING</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Literarily, grace is an extra time that is given to somebody to enable then pay a bill or finish a piece of work. etc</span><br></p><p>Biblical, grace is an unmerited favour of God towards men. It is the kindness of God shown towards the human race that we do not deserve. It is unmerited as manifested in the salvation of sinner and the bestowal of blessings. Grace can be liken to forgiveness, repentance, regeneration and salvation.</p><p><br></p><p><br></p>",
+          "text2": "<p><b>STUDY GUIDE/ POINT OF DISCUSSION</b></p><p>• &nbsp;How will you explain grace.</p><p>• &nbsp;What are the things that can hinder one in growing in God. (James 4:6, Prov &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 18:19, I John 2:15, James 4:4, Rom 6:1-2, Ish 59:1-2)</p><p>• &nbsp; According To James 1:17, every good and perfect gift comes from God etc. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;discuss from Rom 6:4, Eph 1:7, Tit 3:5, I Pet 1:23.</p><p>• &nbsp;From the following passages, identify how I dividuals can receive Gods's grace: &nbsp; &nbsp;Gen 6:8, Esther 2, Josh 6:22-23, Luke 15:12-24 etc.</p><p><b><br></b></p><p><b><br></b></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>CONCLUSION</b></p><p>God delivers from sin at the new birth For 5:17-18, I John 3:9, 5:1-4,18, so if you become subject to it again, it is because of your choice Rom 6:13. You are not under the law that demands obedience without giving power to obey, you are under grace that demands the same strict obedience to God, but gives free pardon for sin and power to obey (II Cor 12:8-9).</p><p><br></p><p><b>WARNING: Do not misuse God's grace!!! </b>&nbsp;Shalom.<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b></p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-2q",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "/addons/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"/addons/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"/addons/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"/addons/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-53",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Registration for 2017 Reunion ends this &nbsp;Wednesday 28th June. Please ensure you register today.!!!</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-52",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"r2017registration.html\" data-toolbar=\"-mbrBtnMove\">Register Now</a>"
+        },
+        {
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         }
       ]
     }

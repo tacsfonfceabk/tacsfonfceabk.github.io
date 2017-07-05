@@ -7075,7 +7075,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FCE ABEOKUTA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newshome.html#msg-box8-1d\"><span class=\"etl-icon icon-megaphone mbr-iconfont mbr-iconfont-btn\"></span>NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>GALLERY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"g1.html\">Photo Gallery</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Video Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"livingword.html\">Living Seed</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>STAYLIITE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Academic Material<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Programmes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Campus Update</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">FYB<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://goo.gl/quPx79\">Register Now</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Announcement<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Project</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\"><span class=\"socicon socicon-draugiem mbr-iconfont mbr-iconfont-btn\"></span>ALUMNI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"view.html\">Reunion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Programmes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Updates &amp; Job offers</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Words of Hope</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-1c\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Mobile menu</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Contributions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>TACSFON</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contactus.html\">Contact Us</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Doctrines</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourtenets.html\">Our Tenets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Believes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Vision<br>Our Mission</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Staff Adviser</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"#top\">Sign Up/Login</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newshome.html#msg-box8-1d\"><span class=\"etl-icon icon-megaphone mbr-iconfont mbr-iconfont-btn\"></span>NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>GALLERY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"g1.html\">Photo Gallery</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Video Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"livingword.html\">Living Seed</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>STAYLIITE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Academic Material<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Programmes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Campus Update</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FYB<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://goo.gl/quPx79\">Register Now</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Announcement<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Project</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\"><span class=\"socicon socicon-draugiem mbr-iconfont mbr-iconfont-btn\"></span>ALUMNI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"view.html\">Reunion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Programmes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Updates &amp; Job offers</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Words of Hope</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-1c\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Mobile menu</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Contributions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>TACSFON</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contactus.html\">Contact Us</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Doctrines</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourtenets.html\">Our Tenets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Believes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Vision<br>Our Mission</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Leaders</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Staff Adviser</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"#top\">Sign Up/Login</a></li>"
         },
         {
           "_name": "footer1",
@@ -7144,9 +7144,9 @@
                 "showTitle": true,
                 "title": "",
                 "showText": true,
-                "text": "<b><br></b><br><b><br></b><br><b><br></b><br><b><br></b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>&nbsp;</b><b>Reunion 2017 &nbsp; &nbsp;&nbsp;</b><br>",
+                "text": "<b><br></b><br><b><br></b><br><b><br></b><br><b><br></b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b><b>Reunion 2017 &nbsp; &nbsp; &nbsp;</b><br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"view.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-ventrilo mbr-iconfont mbr-iconfont-btn\"></span>View</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"r2017registration.html\" data-toolbar=\"-mbrBtnMove\">Register Now</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"view.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-ventrilo mbr-iconfont mbr-iconfont-btn\"></span>View</a>  "
               },
               {
                 "active": false,
@@ -7281,7 +7281,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "biblestudies2.html",
+              "link": "bible.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -7741,13 +7741,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": true,
-            "showButtons": true,
+            "showButtons": false,
             "showTitle": true,
             "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"r2017registration.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a> ",
-          "title": "#REUNION 2017",
-          "text": "Kindly Register now for Reunion 2017... Come July 1st, 2017.&nbsp;"
+          "title": "#REUNION 2016 &amp; 2017",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; View Reunion 2016 - 2017&nbsp;"
         },
         {
           "_inherit": "gallery1",
@@ -7768,7 +7768,7 @@
             "paddingBottom": 1,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7778,7 +7778,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7788,7 +7788,7 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7798,7 +7798,7 @@
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7808,7 +7808,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7818,7 +7818,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7828,7 +7828,7 @@
                 "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7838,7 +7838,7 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7848,7 +7848,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7858,7 +7858,7 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7868,7 +7868,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7876,6 +7876,146 @@
                 "image": "@PROJECT_PATH@/assets/images/sam-5-2000x1500.jpg",
                 "caption": "One-Big-Family",
                 "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2000x2665-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2000x2665.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-15-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-15-2000x1500.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2000x2667-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2000x2667.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-16-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-16-2000x1500.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-17-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-17-2000x1500.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-18-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-18-2000x1500.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2000x1124.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2000x2668-800x1067.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2000x2668.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-15-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-15-2000x1500.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-19-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-19-2000x1500.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-1-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-1-2000x1124.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2000x1125.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2000x1499-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2000x1499.jpg",
+                "caption": "SingSpiration",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-1-2000x1125.jpg",
+                "caption": "SingSpiration",
+                "active": true
               }
             ],
             "spacing": 1,
@@ -7883,50 +8023,12 @@
             "filter": true,
             "bgColor": "#7c706b",
             "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": true
+            "fullWidth": true,
+            "showBullets": false
           },
           "_anchor": "gallery3-3y",
           "articleLayout": false,
           "allItem": "All"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-40",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showTitle": false,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"r2017registration.html\" data-toolbar=\"-mbrBtnMove\">Register Now</a>",
-          "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Kindly Register for Reunion 2017. Please together in Christ Jesus we'll make the best of this year's Reunion in Jesus name."
         },
         {
           "alias": "facebook-comments",

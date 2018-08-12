@@ -1,4 +1,11 @@
-/*!
+.engine {
+	position: absolute;
+	text-indent: -2400px;
+	text-align: center;
+	padding: 0;
+	top: 0;
+	left: -2400px;
+}/*!
  * Default theme v2 (https://mobirise.com/)
  * Copyright 2016 Mobirise
  */
@@ -58,13 +65,13 @@
 .btn-lg {
   padding: 0.75rem 2.1874rem;
   font-size: 0.9687rem;
-  line-height: 1.33333;
+  line-height: 1.3333333333;
   border-radius: 3px; }
 
 .btn-xlg {
   padding: 0.75rem 2.1874rem;
   font-size: 1.1875rem;
-  line-height: 1.33333;
+  line-height: 1.3333333333;
   border-radius: 3px; }
 
 .btn-primary {
@@ -971,7 +978,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   transition: .2s background ease-in-out; }
 
 .mbr-gallery .mbr-gallery-item > a:hover .mbr-gallery-title {
-  background: transparent !important; }
+  background: rgba(0, 0, 0, 0) !important; }
 
 /* remove spacing */
 .mbr-gallery .mbr-gallery-row.no-gutter {
@@ -1118,12 +1125,12 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   color: #fff;
   opacity: 1; }
 
-.mbr-slider .carousel-indicators {
+.mbr-slider:not(.extTestimonials5, .extTestimonials1) .carousel-indicators {
   position: absolute;
   bottom: 0;
   margin-bottom: 1.5rem !important; }
   @media (max-width: 543px) {
-    .mbr-slider .carousel-indicators {
+    .mbr-slider:not(.extTestimonials5, .extTestimonials1) .carousel-indicators {
       display: none; } }
 
 .mbr-gallery .mbr-slider .carousel-indicators {
@@ -2166,11 +2173,3 @@ html.is-builder .article .lead:not([data-app-remove-it]) + div .btn {
     width: 100% !important; } }
 
 /*# sourceMappingURL=style.css.map */
-.engine {
-	position: absolute;
-	text-indent: -2400px;
-	text-align: center;
-	padding: 0;
-	top: 0;
-	left: -2400px;
-}
